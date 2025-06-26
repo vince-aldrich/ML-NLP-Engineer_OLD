@@ -1,0 +1,6 @@
+transformers==4.40.1
+datasets==2.19.1
+scikit-learn==1.4.1
+pandas==2.2.2
+numpy==1.26.4
+torch==2.2.2+cpu
